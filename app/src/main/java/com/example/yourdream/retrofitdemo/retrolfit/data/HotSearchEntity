@@ -1,0 +1,27 @@
+{
+	"result": 0,
+	"msg": {},
+	"method": "icy.getHotSearch",
+	"data": {
+		"placeHolder": "亲肤毛衣",
+		"hotSearch": [{
+			"keyword": "毛衣",
+			"link": ""
+		}, {
+			"keyword": "衬衣",
+			"link": ""
+		}, {
+			"keyword": "呢大衣",
+			"link": ""
+		}, {
+			"keyword": "羽绒服",
+			"link": ""
+		}, {
+			"keyword": "连衣裙",
+			"link": ""
+		}, {
+			"keyword": "阔腿裤",
+			"link": ""
+		}]
+	}
+}
